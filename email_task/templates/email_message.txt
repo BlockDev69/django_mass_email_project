@@ -1,0 +1,5 @@
+Hello {{name|safe}}
+Voici la copie de votre retour:
+{{review|safe}}
+
+Merci!
