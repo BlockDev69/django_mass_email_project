@@ -47,5 +47,4 @@ docker-compose up -d
 
 # 🎉Contribution 
 
-All ideas and contributions are welcome and will be analyzed and responded to as soon as possible.
-So don't hesitate.😁
+All ideas and contributions are welcome.😁
